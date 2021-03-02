@@ -81,7 +81,7 @@ module.exports = function toReadable (number) {
 			decimal = 'thirty ';
 			break;
 		case '4':
-			decimal = 'forty ';
+			decimal = 'fourty ';
 			break;
 		case '5':
 			decimal = 'fifty ';
